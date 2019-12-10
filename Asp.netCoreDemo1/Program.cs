@@ -79,6 +79,8 @@ class Solution
 
         Console.WriteLine(String.Join(" ", result));
 
+        Console.WriteLine("------------------");
+
        
     }
 }
