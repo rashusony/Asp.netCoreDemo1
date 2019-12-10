@@ -6,6 +6,6 @@ namespace Asp.netCoreDemo1
 {
     class Test
     {
-        int i;
+        int i,j;
     }
 }
